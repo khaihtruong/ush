@@ -8,9 +8,6 @@ Unix Shell (ush) is a simplistic shell that allows users to execute commands in 
 - Supports execution of Unix-like commands
 - Simple to use and lightweight
 
-## Preview
-<img src="preview.gif" alt="Preview" width="600" height="400">
-
 ## Getting Started
 
 ### Prerequisites
